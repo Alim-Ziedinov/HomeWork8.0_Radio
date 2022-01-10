@@ -84,6 +84,7 @@ public class Radio {
         }
     }
 
-    public void getMaxRadioStation() {
+    public int getMaxRadioStation() {
+        return maxRadioStation;
     }
 }
